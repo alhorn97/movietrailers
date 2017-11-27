@@ -1,6 +1,6 @@
 This python script will launch movie trailers. 
 
-+Introduction
+Introduction
 
 A Python program that launch a web page which displays a number of movies. Click on a movie poster to watch its trailer.
 
