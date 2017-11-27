@@ -1,4 +1,3 @@
-# toy_story.show_trailer()
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 23 19:51:20 2017
